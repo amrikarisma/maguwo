@@ -1,0 +1,2 @@
+# maguwo
+GitHub Pages
